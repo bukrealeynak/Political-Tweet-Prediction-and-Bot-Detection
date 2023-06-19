@@ -19,8 +19,7 @@ We created a daily tweet ratio feature and checked these features:
 '''
 
 model_explanations = '''
-We used Random Forest for increasing the accuracy. At each round, we will try to use different models such as K-Folds.  
-We tried LogisticRegression model too, but it gave us a worse score of Accuracy, therefore we did not use it.
+We used Random Forest for increasing the accuracy. At each round, we will try to use different models such as K-Folds. We tried LogisticRegression model too, but it gave us a worse score of Accuracy, therefore we did not use it.
 '''
 
 additional_explanations = '''
